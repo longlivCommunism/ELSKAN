@@ -1,0 +1,2 @@
+# ELSKAN-An-Extensible-Least-Squares-Kolmogorov-Arnold-Network-for-Fast-Solving-PDEs
+PINNs/KANs are costly and local-minima prone; PIELMs lack robustness. ELSKAN combines Chebyshev-KAN with ELM, unifying PDE residuals, BCs, and ICs into one regularized least-squares solve. Variants target multi-frequency, localized, and singular/discontinuous PDEs. On 8 benchmarks, up to 100× more accurate with fewer parameters and 10–100× faster.
